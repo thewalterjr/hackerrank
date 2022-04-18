@@ -4,5 +4,5 @@ int introTutorial(int V, vector<int> arr) {
             return i;
         }
     }
-    return 0;
+    return -1;
 }
